@@ -4,7 +4,7 @@
 Welcome to the  Recipe Blog! The purpose of this platform is to provide mouthwatering recipes, exchange culinary knowledge, and unite foodies. Because the website is responsive, different devices may view it at their best.
 
 ##  Figma Design Preview
-<a href=""></a>
+<a href="">https://www.figma.com/file/MIlZc6fWNPLzGJOWf2BUF3/Untitled?type=design&node-id=0%3A1&mode=design&t=ZtcVwwjQgTXyyHbA-1 </a>
 
 ## Live Project
 <a href="">https://mireillevelma.github.io/relly-recipe/</a>
